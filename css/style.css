@@ -1,4 +1,11 @@
-/* Erika Kohl - 09/14/2020*/ 
+/* 
+Student:Erika Kohl
+UMID:8591 6862
+SI 339 001 FA 2020
+Date: 09/14/2020
+*/ 
+
+
 body{
     font-family: 'Lucida Grande', sans-serif;
     color: #ffffff;
@@ -14,10 +21,6 @@ h1 {
      text-shadow: 5px 5px 2px #808080 ;
  }
  
- p{
-     font-size: 24px;
-     padding-top: 20px;
- }
 
 img{
     display: block;
@@ -55,7 +58,7 @@ div{
     color: black;
     text-shadow: 5px 5px 2px #c7e2c7 ;
 }
-#green {
+#green{
     background-color:#008000;
     text-align: left;
 }
@@ -64,4 +67,9 @@ footer p{
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
+}
+
+p{
+    font-size: 24px;
+    padding-top: 20px;
 }
